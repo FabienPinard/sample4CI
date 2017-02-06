@@ -2,6 +2,8 @@ package bigpac;
 public class User {
 
 	private Long id;
+	
+	int a;
 
 	private String lastName;
 
