@@ -3,8 +3,6 @@ public class User {
 
 	private Long id;
 	
-	int a;
-
 	private String lastName;
 
 	private String firstName;
